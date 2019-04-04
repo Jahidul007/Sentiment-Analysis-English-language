@@ -52,6 +52,8 @@ Download the jar file from Stanford NLP site
 ```
 3. Run the main file
 
+All the dependencies can be downloaded from Stanford NLP [site](https://stanfordnlp.github.io/CoreNLP/) .
+
 
 ### Output
 
