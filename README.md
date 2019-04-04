@@ -1,6 +1,4 @@
-# Sentiment_Analysis_English_language
-
-# Sentiment Analysis using Stanford CoreNLP
+# Sentiment Analysis English Language using Stanford CoreNLP
 
 This is a Java project for Sentiment Analysis using Stanford CoreNLP.
 
@@ -29,7 +27,7 @@ The [live](http://nlp.stanford.edu:8080/sentiment/rntnDemo.html) Demo of Stanfod
  * stanford-corenlp-3.9.2-models
  ## For Maven User
  ```xml
-  <dependency>
+        <dependency>
             <groupId>edu.stanford.nlp</groupId>
             <artifactId>stanford-corenlp</artifactId>
             <version>3.9.2</version>
