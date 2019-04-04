@@ -31,6 +31,11 @@ The [live](http://nlp.stanford.edu:8080/sentiment/rntnDemo.html) Demo of Stanfod
             <groupId>edu.stanford.nlp</groupId>
             <artifactId>stanford-corenlp</artifactId>
             <version>3.9.2</version>
+        </dependency>
+        <dependency>
+            <groupId>edu.stanford.nlp</groupId>
+            <artifactId>stanford-corenlp</artifactId>
+            <version>3.9.2</version>
             <classifier>models</classifier>
         </dependency>
 
@@ -44,6 +49,13 @@ The [live](http://nlp.stanford.edu:8080/sentiment/rntnDemo.html) Demo of Stanfod
             <artifactId>slf4j-log4j12</artifactId>
             <version>1.7.2</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/com.googlecode.efficient-java-matrix-library/ejml -->
+        <dependency>
+            <groupId>com.googlecode.efficient-java-matrix-library</groupId>
+            <artifactId>ejml</artifactId>
+            <version>0.23</version>
+        </dependency>
+
  ```
 
 ```
